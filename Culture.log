@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.13)  4 NOV 2022 00:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.13)  5 NOV 2022 12:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -857,6 +857,20 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count340
 \@thisrulewidth=\dimen305
 )
+(C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/fancybox\fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box76
+\shadowsize=\dimen306
+\@Sbox=\box77
+\do@VerbBox=\toks48
+\the@fancyput=\toks49
+\this@fancyput=\toks50
+\EndVerbatimTokens=\toks51
+\Verbatim@Outfile=\write5
+\Verbatim@Infile=\read4
+)
 (C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/orcidlink\orcidlink.sty
 Package: orcidlink 2021/06/11 v1.0.4 Linked ORCiD logo macro package
 
@@ -868,7 +882,7 @@ Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 shapes.code.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodeparttextbox=\box76
+\pgfnodeparttextbox=\box78
 )
 (C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 plot.code.tex
@@ -877,8 +891,8 @@ File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
 mp-version-0-65.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen306
-\pgf@nodesepend=\dimen307
+\pgf@nodesepstart=\dimen307
+\pgf@nodesepend=\dimen308
 )
 (C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
 mp-version-1-18.sty
@@ -892,10 +906,10 @@ Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
 (C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
 .tex)
-\pgffor@iter=\dimen308
-\pgffor@skip=\dimen309
-\pgffor@stack=\toks48
-\pgffor@toks=\toks49
+\pgffor@iter=\dimen309
+\pgffor@skip=\dimen310
+\pgffor@stack=\toks52
+\pgffor@toks=\toks53
 ))
 (C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z\tikz.code.tex
@@ -905,20 +919,20 @@ Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 aryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@plot@mark@count=\count341
-\pgfplotmarksize=\dimen310
+\pgfplotmarksize=\dimen311
 )
-\tikz@lastx=\dimen311
-\tikz@lasty=\dimen312
-\tikz@lastxsaved=\dimen313
-\tikz@lastysaved=\dimen314
-\tikz@lastmovetox=\dimen315
-\tikz@lastmovetoy=\dimen316
-\tikzleveldistance=\dimen317
-\tikzsiblingdistance=\dimen318
-\tikz@figbox=\box77
-\tikz@figbox@bg=\box78
-\tikz@tempbox=\box79
-\tikz@tempbox@bg=\box80
+\tikz@lastx=\dimen312
+\tikz@lasty=\dimen313
+\tikz@lastxsaved=\dimen314
+\tikz@lastysaved=\dimen315
+\tikz@lastmovetox=\dimen316
+\tikz@lastmovetoy=\dimen317
+\tikzleveldistance=\dimen318
+\tikzsiblingdistance=\dimen319
+\tikz@figbox=\box79
+\tikz@figbox@bg=\box80
+\tikz@tempbox=\box81
+\tikz@tempbox@bg=\box82
 \tikztreelevel=\count342
 \tikznumberofchildren=\count343
 \tikznumberofcurrentchild=\count344
@@ -950,10 +964,10 @@ parser.code.tex
 File: pgfmoduleparser.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfparserdef@arg@count=\count350
 )
-\pgf@lib@svg@last@x=\dimen319
-\pgf@lib@svg@last@y=\dimen320
-\pgf@lib@svg@last@c@x=\dimen321
-\pgf@lib@svg@last@c@y=\dimen322
+\pgf@lib@svg@last@x=\dimen320
+\pgf@lib@svg@last@y=\dimen321
+\pgf@lib@svg@last@c@x=\dimen322
+\pgf@lib@svg@last@c@y=\dimen323
 \pgf@lib@svg@count=\count351
 \pgf@lib@svg@max@num=\count352
 ))
@@ -971,8 +985,8 @@ Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count353
 \calc@Bcount=\count354
-\calc@Adimen=\dimen323
-\calc@Bdimen=\dimen324
+\calc@Adimen=\dimen324
+\calc@Bdimen=\dimen325
 \calc@Askip=\skip65
 \calc@Bskip=\skip66
 LaTeX Info: Redefining \setlength on input line 80.
@@ -981,32 +995,32 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Cskip=\skip67
 )
 \g_MT_multlinerow_int=\count356
-\l_MT_multwidth_dim=\dimen325
+\l_MT_multwidth_dim=\dimen326
 \origjot=\skip68
-\l_MT_shortvdotswithinadjustabove_dim=\dimen326
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen327
-\l_MT_above_intertext_sep=\dimen328
-\l_MT_below_intertext_sep=\dimen329
-\l_MT_above_shortintertext_sep=\dimen330
-\l_MT_below_shortintertext_sep=\dimen331
-\xmathstrut@box=\box81
-\xmathstrut@dim=\dimen332
+\l_MT_shortvdotswithinadjustabove_dim=\dimen327
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen328
+\l_MT_above_intertext_sep=\dimen329
+\l_MT_below_intertext_sep=\dimen330
+\l_MT_above_shortintertext_sep=\dimen331
+\l_MT_below_shortintertext_sep=\dimen332
+\xmathstrut@box=\box83
+\xmathstrut@dim=\dimen333
 )
 \l_EQ_equationtype_int=\count357
 \l_EQ_alignmentmode_int=\count358
-\l_EQ_totalwidth_dim=\dimen333
-\l_EQ_displaywidth_dim=\dimen334
-\l_EQ_temp_linewidth_dim=\dimen335
-\l_EQ_linewidth_dim=\dimen336
-\EmphEqdelimitershortfall=\dimen337
+\l_EQ_totalwidth_dim=\dimen334
+\l_EQ_displaywidth_dim=\dimen335
+\l_EQ_temp_linewidth_dim=\dimen336
+\l_EQ_linewidth_dim=\dimen337
+\EmphEqdelimitershortfall=\dimen338
 \EmphEqdelimiterfactor=\count359
-\g_EQ_toptag_height_dim=\dimen338
-\g_EQ_bottomtag_depth_dim=\dimen339
-\g_EQ_toprow_height_dim=\dimen340
-\g_EQ_bottomrow_depth_dim=\dimen341
-\g_EQ_widesttag_dim=\dimen342
-\EQ_mathdisplay_box=\box82
-\EQ_tag_box=\box83
+\g_EQ_toptag_height_dim=\dimen339
+\g_EQ_bottomtag_depth_dim=\dimen340
+\g_EQ_toprow_height_dim=\dimen341
+\g_EQ_bottomrow_depth_dim=\dimen342
+\g_EQ_widesttag_dim=\dimen343
+\EQ_mathdisplay_box=\box84
+\EQ_tag_box=\box85
 \g_EQ_temprow_int=\count360
 )
 (C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
@@ -1035,7 +1049,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 tex.def
 File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count361
-\l__pdf_internal_box=\box84
+\l__pdf_internal_box=\box86
 ) (Culture.aux)
 \openout1 = `Culture.aux'.
 
@@ -1097,16 +1111,16 @@ LaTeX Font Info:    ... okay on input line 23.
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count362
-\scratchdimen=\dimen343
-\scratchbox=\box85
+\scratchdimen=\dimen344
+\scratchbox=\box87
 \nofMPsegments=\count363
 \nofMParguments=\count364
-\everyMPshowfont=\toks50
+\everyMPshowfont=\toks54
 \MPscratchCnt=\count365
-\MPscratchDim=\dimen344
+\MPscratchDim=\dimen345
 \MPnumerator=\count366
 \makeMPintoPDFobject=\count367
-\everyMPtoPDFconversion=\toks51
+\everyMPtoPDFconversion=\toks55
 )
 (C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -1120,8 +1134,8 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 23.
  (Culture.out) (Culture.out)
-\@outlinefile=\write5
-\openout5 = `Culture.out'.
+\@outlinefile=\write6
+\openout6 = `Culture.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 23.
@@ -1199,46 +1213,321 @@ Dictionary: translator-numbers-dictionary, Language: English
 (C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-t
 heorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (Culture.nav)
-<figures/consorcio.png, id=27, 178.6675pt x 194.7275pt>
+) (Culture.nav) (pre-slides.tex
+<figures/consorcio.png, id=35, 178.6675pt x 194.7275pt>
 File: figures/consorcio.png Graphic file (type png)
 <use figures/consorcio.png>
-Package pdftex.def Info: figures/consorcio.png  used on input line 26.
+Package pdftex.def Info: figures/consorcio.png  used on input line 4.
 (pdftex.def)             Requested size: 34.14322pt x 37.21254pt.
  [1
 
 {C:/Users/bchai/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./figures/co
-nsorcio.png>] [2
+nsorcio.png>]
+(Culture.toc) [2
+
+]) (Culture.toc) [3
 
 ]
-\tf@nav=\write6
-\openout6 = `Culture.nav'.
 
-\tf@toc=\write7
-\openout7 = `Culture.toc'.
+pdfTeX warning: pdflatex.exe (file ./figures/L1.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<./figures/L1.pdf, id=135, 845.07724pt x 597.55246pt>
+File: ./figures/L1.pdf Graphic file (type pdf)
+<use ./figures/L1.pdf>
+Package pdftex.def Info: ./figures/L1.pdf  used on input line 35.
+(pdftex.def)             Requested size: 344.22731pt x 243.40817pt.
 
-\tf@snm=\write8
-\openout8 = `Culture.snm'.
+Overfull \vbox (39.40941pt too high) detected at line 35
+ []
+
+[4
+
+ <./figures/L1.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./figures/L2.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<./figures/L2.pdf, id=189, 845.07724pt x 597.55246pt>
+File: ./figures/L2.pdf Graphic file (type pdf)
+<use ./figures/L2.pdf>
+Package pdftex.def Info: ./figures/L2.pdf  used on input line 40.
+(pdftex.def)             Requested size: 344.22731pt x 243.40817pt.
+
+Overfull \vbox (39.40941pt too high) detected at line 40
+ []
+
+[5
+
+ <./figures/L2.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./figures/L3.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<./figures/L3.pdf, id=244, 845.07724pt x 597.55246pt>
+File: ./figures/L3.pdf Graphic file (type pdf)
+<use ./figures/L3.pdf>
+Package pdftex.def Info: ./figures/L3.pdf  used on input line 46.
+(pdftex.def)             Requested size: 344.22731pt x 243.40817pt.
+
+Overfull \vbox (39.40941pt too high) detected at line 46
+ []
+
+[6
+
+ <./figures/L3.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./figures/L4.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<./figures/L4.pdf, id=289, 845.07724pt x 597.55246pt>
+File: ./figures/L4.pdf Graphic file (type pdf)
+<use ./figures/L4.pdf>
+Package pdftex.def Info: ./figures/L4.pdf  used on input line 52.
+(pdftex.def)             Requested size: 344.22731pt x 243.40817pt.
+
+Overfull \vbox (57.40941pt too high) detected at line 52
+ []
+
+[7
+
+ <./figures/L4.pdf>] [8
+
+] [9
+
+]
+
+pdfTeX warning: pdflatex.exe (file ./figures/L5.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<./figures/L5.pdf, id=403, 845.07724pt x 597.55246pt>
+File: ./figures/L5.pdf Graphic file (type pdf)
+<use ./figures/L5.pdf>
+Package pdftex.def Info: ./figures/L5.pdf  used on input line 78.
+(pdftex.def)             Requested size: 344.22731pt x 243.40817pt.
+
+Overfull \vbox (57.40941pt too high) detected at line 78
+ []
+
+[10
+
+ <./figures/L5.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./figures/L6.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<./figures/L6.pdf, id=462, 845.07724pt x 597.55246pt>
+File: ./figures/L6.pdf Graphic file (type pdf)
+<use ./figures/L6.pdf>
+Package pdftex.def Info: ./figures/L6.pdf  used on input line 84.
+(pdftex.def)             Requested size: 344.22731pt x 243.40817pt.
+
+Overfull \vbox (57.40941pt too high) detected at line 84
+ []
+
+[11
+
+ <./figures/L6.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./figures/L7.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<./figures/L7.pdf, id=519, 845.07724pt x 597.55246pt>
+File: ./figures/L7.pdf Graphic file (type pdf)
+<use ./figures/L7.pdf>
+Package pdftex.def Info: ./figures/L7.pdf  used on input line 90.
+(pdftex.def)             Requested size: 344.22731pt x 243.40817pt.
+
+Overfull \vbox (39.40941pt too high) detected at line 90
+ []
+
+[12
+
+ <./figures/L7.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./figures/L8.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<./figures/L8.pdf, id=564, 845.07724pt x 597.55246pt>
+File: ./figures/L8.pdf Graphic file (type pdf)
+<use ./figures/L8.pdf>
+Package pdftex.def Info: ./figures/L8.pdf  used on input line 96.
+(pdftex.def)             Requested size: 344.22731pt x 243.40817pt.
+
+Overfull \vbox (57.40941pt too high) detected at line 96
+ []
+
+[13
+
+ <./figures/L8.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./figures/L9.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<./figures/L9.pdf, id=603, 845.07724pt x 597.55246pt>
+File: ./figures/L9.pdf Graphic file (type pdf)
+<use ./figures/L9.pdf>
+Package pdftex.def Info: ./figures/L9.pdf  used on input line 102.
+(pdftex.def)             Requested size: 344.22731pt x 243.40817pt.
+
+Overfull \vbox (39.40941pt too high) detected at line 102
+ []
+
+[14
+
+ <./figures/L9.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./figures/sintesis.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+<./figures/sintesis.pdf, id=654, 845.07724pt x 597.55246pt>
+File: ./figures/sintesis.pdf Graphic file (type pdf)
+<use ./figures/sintesis.pdf>
+Package pdftex.def Info: ./figures/sintesis.pdf  used on input line 108.
+(pdftex.def)             Requested size: 344.22731pt x 243.40817pt.
+
+Overfull \vbox (39.40941pt too high) detected at line 108
+ []
+
+[15
+
+ <./figures/sintesis.pdf>] (Culture.toc) [16
+
+]
+
+pdfTeX warning: pdflatex.exe (file ./figures/L10.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<./figures/L10.pdf, id=730, 845.07724pt x 597.55246pt>
+File: ./figures/L10.pdf Graphic file (type pdf)
+<use ./figures/L10.pdf>
+Package pdftex.def Info: ./figures/L10.pdf  used on input line 114.
+(pdftex.def)             Requested size: 344.22731pt x 243.40817pt.
+
+Overfull \vbox (9.0pt too high) detected at line 114
+ []
+
+[17
+
+ <./figures/L10.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./figures/L11.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<./figures/L11.pdf, id=761, 845.07724pt x 597.55246pt>
+File: ./figures/L11.pdf Graphic file (type pdf)
+<use ./figures/L11.pdf>
+Package pdftex.def Info: ./figures/L11.pdf  used on input line 120.
+(pdftex.def)             Requested size: 344.22731pt x 243.40817pt.
+
+Overfull \vbox (39.40941pt too high) detected at line 120
+ []
+
+[18
+
+ <./figures/L11.pdf>] [19
+
+] [20
+
+] [21
+
+]
+
+pdfTeX warning: pdflatex.exe (file ./figures/L13.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<./figures/L13.pdf, id=897, 845.07724pt x 597.55246pt>
+File: ./figures/L13.pdf Graphic file (type pdf)
+<use ./figures/L13.pdf>
+Package pdftex.def Info: ./figures/L13.pdf  used on input line 147.
+(pdftex.def)             Requested size: 344.22731pt x 243.40817pt.
+
+Overfull \vbox (39.40941pt too high) detected at line 147
+ []
+
+[22
+
+ <./figures/L13.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./figures/L14.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<./figures/L14.pdf, id=936, 845.07724pt x 597.55246pt>
+File: ./figures/L14.pdf Graphic file (type pdf)
+<use ./figures/L14.pdf>
+Package pdftex.def Info: ./figures/L14.pdf  used on input line 153.
+(pdftex.def)             Requested size: 344.22731pt x 243.40817pt.
+
+Overfull \vbox (39.40941pt too high) detected at line 153
+ []
+
+[23
+
+ <./figures/L14.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./figures/L15.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<./figures/L15.pdf, id=966, 845.07724pt x 597.55246pt>
+File: ./figures/L15.pdf Graphic file (type pdf)
+<use ./figures/L15.pdf>
+Package pdftex.def Info: ./figures/L15.pdf  used on input line 159.
+(pdftex.def)             Requested size: 344.22731pt x 243.40817pt.
+
+Overfull \vbox (39.40941pt too high) detected at line 159
+ []
+
+[24
+
+ <./figures/L15.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./figures/L16.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<./figures/L16.pdf, id=996, 845.07724pt x 597.55246pt>
+File: ./figures/L16.pdf Graphic file (type pdf)
+<use ./figures/L16.pdf>
+Package pdftex.def Info: ./figures/L16.pdf  used on input line 165.
+(pdftex.def)             Requested size: 344.22731pt x 243.40817pt.
+
+Overfull \vbox (39.40941pt too high) detected at line 165
+ []
+
+[25
+
+ <./figures/L16.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./figures/L17.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<./figures/L17.pdf, id=1027, 845.07724pt x 597.55246pt>
+File: ./figures/L17.pdf Graphic file (type pdf)
+<use ./figures/L17.pdf>
+Package pdftex.def Info: ./figures/L17.pdf  used on input line 171.
+(pdftex.def)             Requested size: 344.22731pt x 243.40817pt.
+
+Overfull \vbox (39.40941pt too high) detected at line 171
+ []
+
+[26
+
+ <./figures/L17.pdf>]
+\tf@nav=\write7
+\openout7 = `Culture.nav'.
+
+\tf@toc=\write8
+\openout8 = `Culture.toc'.
+
+\tf@snm=\write9
+\openout9 = `Culture.snm'.
 
  (Culture.aux)
 Package rerunfilecheck Info: File `Culture.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: DB8E7DCE259F9B3345C90AEC46F0AB6A;986.
  ) 
 Here is how much of TeX's memory you used:
- 27595 strings out of 478338
- 562202 string characters out of 2836699
- 831158 words of memory out of 3000000
- 45465 multiletter control sequences out of 15000+600000
- 471071 words of font info for 34 fonts, out of 8000000 for 9000
+ 28139 strings out of 478338
+ 572024 string characters out of 2836699
+ 834571 words of memory out of 3000000
+ 45926 multiletter control sequences out of 15000+600000
+ 471365 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,21n,122p,413b,1105s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/bchai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmss10.pfb><C:/Users/bchai/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmss12.pfb><C:/Users/bchai/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmss8.pfb>
-Output written on Culture.pdf (2 pages, 61189 bytes).
+ 128i,21n,122p,631b,1109s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+pdfTeX warning (dest): name{Navigation27} has been referenced but does not exis
+t, replaced by a fixed one
+
+<C:/Users/bchai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+ss10.pfb><C:/Users/bchai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmss12.pfb><C:/Users/bchai/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmss8.pfb><C:/Users/bchai/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmssbx10.pfb>
+Output written on Culture.pdf (26 pages, 3808123 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
- 84 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1089 PDF objects out of 1200 (max. 8388607)
+ 56 named destinations out of 1000 (max. 500000)
+ 203 words of extra memory for PDF output out of 10000 (max. 10000000)
 
